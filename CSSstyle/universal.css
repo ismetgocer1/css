@@ -1,0 +1,22 @@
+*{
+
+font-size: 0.9rem;
+color: rgb(255, 136, 0);
+font-weight: 200;
+
+}
+
+
+.highlight{
+
+    color:rgb(42, 218, 19)
+}
+
+.center{
+    text-align: center;
+}
+
+#p4{
+text-align: justify;
+
+}
