@@ -1,0 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}
+h1.title{
+
+    text-decoration: line-through;
+    font-style: italic;
+    font-weight: 500;
+}

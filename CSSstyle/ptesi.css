@@ -1,0 +1,16 @@
+
+*{
+color:rgb(0, 255, 0)
+
+}
+
+nav.main-menu{  /*class isimleri kebap case ile yazılır */
+   background-color: rgb(216, 31, 31) ; 
+   text-align: center;
+
+}
+
+.active{
+    background-color: gray;
+    color:white;
+}
