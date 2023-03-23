@@ -1,0 +1,9 @@
+nav.main-menu{
+    background-color: beige;
+    text-align:center;
+}
+
+.active{
+    background-color: darkgray;
+    color:white
+}

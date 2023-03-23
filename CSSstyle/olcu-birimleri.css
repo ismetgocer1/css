@@ -1,0 +1,35 @@
+html, body{   /* hem body'ye hem html'ye yükseklik ver dedik*/
+    height: 100%;
+    font-size: 1.1rem;
+}
+
+.kutu1{
+    background-color: aqua;
+    width: 3cm;
+    height: 50%;   /* % verince olmuyor. Çünkü body'nin default bir yüksekliği olmadığı için birşeyin yüzdesini alarak çalışamıyor.  */
+    font-size: 2em;
+}
+
+
+.kutu2{
+    background-color: red;
+    width: 300px; /*pixel olarak verilen yükseklik parent'ten etkilenmez */
+}
+.kutu3{
+    background-color:blue;
+    width: 50%;
+    height: 150px;
+    font-size: 1.2rem;
+}
+.kutu4{
+    background-color:blueviolet;
+    width: 50%;
+    height: 50%;   /* parentinin yüksekliği olduğu için burada % çalıştı */
+    font-size: 2rem;
+}
+.kutu5{
+    background-color: greenyellow;
+    width: 50vw;
+    height: 10vh;
+    
+}

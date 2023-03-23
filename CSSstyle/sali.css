@@ -1,0 +1,6 @@
+.lorem-list{
+    list-style-type: '🏞️' ;
+    list-style-position: inside;
+    background-color: antiquewhite;
+    line-height: 2rem;
+}

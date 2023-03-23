@@ -1,0 +1,19 @@
+a:link{
+color:chocolate; 
+}
+
+a:visited{
+    color:chocolate; 
+}
+
+a:hover{
+    color:blueviolet; 
+    background-color: bisque;
+    cursor:grab ;
+} 
+
+.liste{
+    list-style-type: circle;
+    list-style-position: outside;
+    line-height: 2rem 
+}
